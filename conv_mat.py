@@ -18,7 +18,7 @@ def conv_mat(h, x):
 	return (H, y)
 
 # h = [1, 2, 15]
-# x = [7, 3, 9,2,3,5]
+# x = [7, 3, 9, 2, 3, 5]
 
 # print convolve(h,x)
 # print conv_mat(h,x)
